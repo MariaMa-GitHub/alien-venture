@@ -2,10 +2,6 @@
 
 [Alien Venture](https://maria-shurui-ma.itch.io/alien-venture) is a simple indie game made with pygame.
 
-### Download
-
-<iframe frameborder="0" src="https://itch.io/embed/1634254" width="552" height="167"><a href="https://maria-shurui-ma.itch.io/alien-venture">Alien Venture by MariaCS</a></iframe>
-
 ### Storyline
 
 A group of aliens got lost in this unknown universe. Can you help them find the way out?
