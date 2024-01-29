@@ -1,6 +1,6 @@
 # Alien Venture
 
-[Alien Venture](https://maria-shurui-ma.itch.io/alien-venture) is a simple indie game made with pygame.
+[Alien Venture](https://maria-shurui-ma.itch.io/alien-venture) is a 2D platformer game made with Pygame.
 
 ### Storyline
 
